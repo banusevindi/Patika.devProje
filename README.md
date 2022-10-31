@@ -56,14 +56,17 @@ www.patika.dev
     
 # Proje3
 # [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
- *  Root sayımız 7dir sağ tarafa yediden büyük sayı sol tarafa yediden küçük sayı yazılarak ilerleyen bir yapımız olmalıdır.  
+    *  Root sayımız 7dir sağ tarafa yediden büyük sayı sol tarafa yediden küçük sayı yazılarak ilerleyen bir yapımız olmalıdır.  
                7
               / \
+              
              5   8
            /  \    \
+           
           1    6    9
          /      \
         0        3
+        
       /  \ 
      2    4
     
